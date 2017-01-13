@@ -51,6 +51,7 @@
       "description": "DB schema to be exported",
       "required": false,
       "value": "1"
-    }
+    },
+    "stack": "heroku-16"
   }
 }
